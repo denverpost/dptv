@@ -9,4 +9,4 @@ Ooyala video editor: http://backlot.ooyala.com/backlot/web
 
 Ooyala player editor (aka themebuilder): https://themebuilder.ooyala.com/
 
-Ooyala Support: Rum$oo14
+Ooyala Support: https://ooyalacommunity.force.com/apex/Home
