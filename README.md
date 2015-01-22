@@ -12,6 +12,8 @@ Ooyala player editor -- the place where you add or remove tabs from the bottom r
 
 Ooyala Support: https://ooyalacommunity.force.com/apex/Home
 
+Documentation for Backlot external publisihing XML template language: http://support.ooyala.com/documentation/reference/fms.html
+
 ## FAQ
 ### How do I get a playlist ID to add to a player?
 Query `/v2/playlists` against ooyala's API. You'll probably do that here: https://api.ooyala.com/docs/api_scratchpad
