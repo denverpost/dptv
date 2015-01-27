@@ -17,3 +17,6 @@ Documentation for Backlot external publisihing XML template language: http://sup
 ## FAQ
 ### How do I get a playlist ID to add to a player?
 Query `/v2/playlists` against ooyala's API. You'll probably do that here: https://api.ooyala.com/docs/api_scratchpad
+
+### How do I get a label ID when I want to add a new category to the site and to the autopost?
+Query `/v2/labels` against ooyala's API.
