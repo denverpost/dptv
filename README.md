@@ -14,6 +14,8 @@ Ooyala Support: https://ooyalacommunity.force.com/apex/Home
 
 Documentation for Backlot external publisihing XML template language: http://support.ooyala.com/documentation/reference/fms.html
 
+Template tag date filter syntax: http://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
+
 ## FAQ
 ### How do I get a playlist ID to add to a player?
 Query `/v2/playlists` against ooyala's API. You'll probably do that here: https://api.ooyala.com/docs/api_scratchpad
