@@ -18,7 +18,8 @@ Template tag date filter syntax: http://docs.shopify.com/themes/liquid-documenta
 
 ### HTML 5 Player Reference
 * [Customize the UI](http://support.ooyala.com/developers/documentation/concepts/player_v3_dev_customui.html)
-
+* [Javascript API reference](http://support.ooyala.com/developers/documentation/concepts/book_api_player.html)
+* [More JS API reference](http://support.ooyala.com/developers/documentation/concepts/player_v3_dev_customplayer.html)
 
 ## FAQ
 ### How do I get a playlist ID to add to a player?
