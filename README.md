@@ -17,7 +17,7 @@ Documentation for Backlot external publisihing XML template language: http://sup
 Template tag date filter syntax: http://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
 
 ### HTML 5 Player Reference
-* (Customize the UI)[http://support.ooyala.com/developers/documentation/concepts/player_v3_dev_customui.html]
+* [Customize the UI](http://support.ooyala.com/developers/documentation/concepts/player_v3_dev_customui.html)
 
 
 ## FAQ
