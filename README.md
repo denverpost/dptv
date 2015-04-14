@@ -1,6 +1,6 @@
 #DPTV
 
-Repo to handle technical issues with Denver Post TV
+Repo to handle technical issues with [Denver Post TV](http://dptv.denverpost.com) and [The Sports Show](http://sportsshow.denverpost.com/).
 
 ## Useful links
 
