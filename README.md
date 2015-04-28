@@ -2,6 +2,17 @@
 
 Repo to handle technical issues with [Denver Post TV](http://dptv.denverpost.com) and [The Sports Show](http://sportsshow.denverpost.com/).
 
+## DPTV Production Help
+### How to import videos by hand
+In the wp-admin of DPTV and Sports Show is a page called Ooyala Debug (Settings -> Ooyala Debug).
+
+On that page is a form, and if you paste in the ooyala video id for the video you're looking for, it will import it (unless it's already in the system, then it just lets you know it's already in the system).
+
+* [Here's that page for DPTV](http://dptv.denverpost.com/wp-admin/options-general.php?page=ooyala-debug)
+* [And for the Sports Show](http://sportsshow.denverpost.com/wp-admin/options-general.php?page=ooyala-debug)
+
+Once a video is imported it will be in draft mode, and you will need to add a category to it.
+
 ## Useful links
 
 Ooyala API web interface: https://api.ooyala.com/docs/api_scratchpad
