@@ -14,6 +14,17 @@ On that page is a form, and if you paste in the ooyala video id for the video yo
 Once a video is imported it will be in draft mode, and you will need to add a category to it.
 
 # Dev stuff
+
+## Twitter & Facebook Inline Player Notes
+
+### Twitter
+
+https://dev.twitter.com/cards/types/player
+
+https://cards-dev.twitter.com/validator
+
+### Facebook
+
 ## Useful links
 
 Ooyala API web interface: https://api.ooyala.com/docs/api_scratchpad
