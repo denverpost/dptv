@@ -19,6 +19,11 @@ Once a video is imported it will be in draft mode, and you will need to add a ca
 
 [Player implementation](http://assets.inform.com/player-suite/implementation/index.html)
 
+### How to edit the playlists video.denverpost.com
+
+You can update or change what playlists you want mapped here in the Control Room when logged in as ‘denverpost’ by clicking video products —> filter (search ‘Studio’) —> StudioPage (widget ID 32072) —> edit. 
+
+
 ## Twitter & Facebook Inline Player Notes
 
 ### Twitter
