@@ -15,6 +15,10 @@ Once a video is imported it will be in draft mode, and you will need to add a ca
 
 # Dev stuff
 
+## Inform notes
+
+[Player implementation](http://assets.inform.com/player-suite/implementation/index.html)
+
 ## Twitter & Facebook Inline Player Notes
 
 ### Twitter
